@@ -48,8 +48,8 @@ Here are some ideas to get you started:
      src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" /></a>
   </p>
    <p>
-  <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="left" alt="Donate" width="22px"
-     src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" /></a>
+  <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="left" alt="Donate" width="60px"
+     src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
   </p>
  
 
