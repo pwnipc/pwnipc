@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hello Earthlings
   
-  Hi i'm Mr Chalie Wizz<br /><br />
+  I'm Mr Chalie Wizz<br /><br />
   <img src="https://img.shields.io/badge/Creator%20%2F%20Found%20Of%20%40freetechmods%20%7C%20%40Hackers%20Lobby-Telegram-blue"><br />
 
   <img src="https://github-readme-stats.vercel.app/api?username=Chal13W1zz&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="Chalie's Stats">
@@ -45,14 +45,12 @@ Here are some ideas to get you started:
   </p>
    <p>
   <a href="https://www.youtube.com/channel/UCYtzy_RI9Bp8CWgNZzTPUmA?sub_confirmation=1"><img align="left" alt="youtube.com" width="22px"
-     src="https://seeklogo.com/images/Y/youtube-2017-logo-1249818C34-seeklogo.com.png" /></a>
+     src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" /></a>
   </p>
- <form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="PJSAAEHCKWV5G" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_KE/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
+   <p>
+  <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="left" alt="Donate" width="22px"
+     src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" /></a>
   </p>
+ 
 
 <br />
