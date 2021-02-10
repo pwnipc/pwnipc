@@ -32,7 +32,27 @@ Here are some ideas to get you started:
   
  ## Connect with me:
   <p>
-   <a href="https://t.me/Chal13W1zz"><img align="left" alt="telegram.org" width="22px" src="https://images.vexels.com/media/users/3/137414/isolated/preview/3f7486417ddd88060a1818d44b6f3728-telegram-icon-logo-by-vexels.png" /></a>
+   <a href="https://t.me/Chal13W1zz"><img align="left" alt="telegram.org" width="22px" 
+      src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" /></a>
+  </p>
+  <p>
+  <a href="https://twitter.com/Chal13W1zz"><img align="left" alt="twitter.com" width="22px"
+     src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" /></a>
+  </p>
+   <p>
+  <a href="https://api.whatsapp.com//send?phone=254795344966&text=Hey%20Chalie"><img align="left" alt="whatsapp.com" width="22px"
+     src="https://seeklogo.com/images/W/whatsapp-logo-112413FAA7-seeklogo.com.png" /></a>
+  </p>
+   <p>
+  <a href="https://www.youtube.com/channel/UCYtzy_RI9Bp8CWgNZzTPUmA?sub_confirmation=1"><img align="left" alt="youtube.com" width="22px"
+     src="https://seeklogo.com/images/Y/youtube-2017-logo-1249818C34-seeklogo.com.png" /></a>
+  </p>
+ <form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="PJSAAEHCKWV5G" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_KE/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
   </p>
 
 <br />
