@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 ## Hello Earthlings
   
   I'm Mr Chalie Wizz<br /><br />
-  <img src="https://img.shields.io/badge/Creator%20%2F%20Found%20Of%20%40freetechmods%20%7C%20%40Hackers%20Lobby-Telegram-blue"><br />
+  <img src="https://img.shields.io/badge/Creator%20%2F%20Founder%20Of%20%40freetechmods%20%7C%20%40Hackers%20Lobby-Telegram-blue"><br />
 
   <img src="https://github-readme-stats.vercel.app/api?username=Chal13W1zz&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="Chalie's Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chal13W1zz&theme=blue-green" alt="Chalie's Languages"><br />
 
 ## About Me
-  - 🔭 I'm currently doing exploit dev. 
-  - 🌱 I'm currently doing bug bounty hunting and playing ctf's.
-  - 💬 Ask me about Ethical Hacking and free internet tricks.
+  - 🔭 I'm currently doing exploit dev, learning machine code and trynna create an OS. 
+  - 🌱 I'm an Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
+  - 💬 Ask me about Android App Security and Ethical Hacking.
   - 🥅 Coding is bae :)
   
  ## Connect with me:
