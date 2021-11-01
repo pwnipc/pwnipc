@@ -25,8 +25,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chal13W1zz&theme=blue-green" alt="Chalie's Languages"><br />
 
 ## About Me
-  - 🔭 I'm currently doing deep research on Android , Javascript V8 Engine and Google Chrome sbx escape & RCE vulns/exploits. 
+  - 🔭 I'm currently doing deep research on Android , Javascript V8 Engine , Google Chrome sbx escape and RCE vulns/exploits. 
   - 🌱 I'm Mobile Application Security Engineer/ Developer, doing bug bounty hunting and playing ctf's at night.
+  - 👯 Security Bug Bounty Hunter at Github
   - 💬 Ask me about Android App Security and Dev.
   - 🥅 Hack the planet before they do :)
   
