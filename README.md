@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chal13W1zz&theme=blue-green" alt="Chalie's Languages"><br />
 
 ## About Me
-  - 🔭 I'm currently doing exploit dev, learning machine code and trynna create an OS. 
-  - 🌱 I'm an Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
-  - 💬 Ask me about Android App Security and Ethical Hacking.
-  - 🥅 Coding is bae :)
+  - 🔭 I'm currently doing deep research on Android , Javascript V8 Engine and Google Chrome sbx escape & RCE vulns/exploits. 
+  - 🌱 I'm Mobile Application Security Engineer/ Developer, doing bug bounty hunting and playing ctf's at night.
+  - 💬 Ask me about Android App Security and Dev.
+  - 🥅 Hack the planet before they do :)
   
  ## Connect with me:
   <p>
