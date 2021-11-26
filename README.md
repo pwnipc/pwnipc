@@ -16,13 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
-## Hello Earthlings
-  
-  I'm Mr Chalie Wizz<br /><br />
-  <img src="https://img.shields.io/badge/Creator%20%2F%20Founder%20Of%20%40freetechmods%20%7C%20%40Hackers%20Lobby-Telegram-blue"><br />
+<h2 align="center">Hello Earthlings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Earthlings" width="28" /></h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Chal13W1zz&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="Chalie's Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chal13W1zz&theme=blue-green" alt="Chalie's Languages"><br />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Mr+Chalie;I+%E2%9D%A4%EF%B8%8F+Android+App++Development+and+Security;I'm+doing+research+on+Browser+Eploitation;i+am+a+student;i+really+love+code+%E2%9D%A4%EF%B8%8F+;i+%E2%9D%A4%EF%B8%8F+ARM+Assembly+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F"></p>
+  
+  <p align="center">   <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="left" alt="Donate" width="60px" src="https://ionicabizau.github.io/badges/paypal.svg" /></a> <img src="https://img.shields.io/badge/Creator%20%2F%20Founder%20Of%20%40FreeTechMods%20%7C%20%40Hackers%20Lobby-Telegram-blue">    
+  <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="right" alt="Donate" width="60px" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></p>
+  
+<h3 align="center">Streaks and Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chal13W1zz&amp;theme=nord" alt="GitHub Streaks" width="49%" />
+
+  <img src="https://gitcard.vercel.app/api?username=Chal13W1zz&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
+
+</p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chal13W1zz&theme=nord" alt="Chalie's Languages"> </p>
+
+ <br />
 
 ## About Me
   - 🔭 I'm currently doing deep research on Android , Javascript V8 Engine , Google Chrome sbx escape and RCE vulns/exploits. 
@@ -31,27 +41,16 @@ Here are some ideas to get you started:
   - 💬 Ask me about Android App Security and Dev.
   - 🥅 Hack the planet before they do :)
   
- ## Connect with me:
-  <p>
-   <a href="https://t.me/Chal13W1zz"><img align="left" alt="telegram.org" width="22px" 
-      src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" /></a>
-  </p>
-  <p>
-  <a href="https://twitter.com/Chal13W1zz"><img align="left" alt="twitter.com" width="22px"
-     src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" /></a>
-  </p>
-   <p>
-  <a href="https://api.whatsapp.com//send?phone=254795344966&text=Hey%20Chalie"><img align="left" alt="whatsapp.com" width="22px"
-     src="https://seeklogo.com/images/W/whatsapp-logo-112413FAA7-seeklogo.com.png" /></a>
-  </p>
-   <p>
-  <a href="https://www.youtube.com/channel/UCYtzy_RI9Bp8CWgNZzTPUmA?sub_confirmation=1"><img align="left" alt="youtube.com" width="22px"
-     src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" /></a>
-  </p>
-   <p>
-  <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="left" alt="Donate" width="60px"
-     src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-  </p>
- 
+ <h2 align="center">  Connect with me </h2>
 
-<br />
+<p align="center"> 
+<a href="https://t.me/Chal13W1zz" target="blank"><img src="https://img.shields.io/badge/%40Chal13W1zz-Telegram-blue" alt="@Chal13W1zz" />
+<a href="https://twitter.com/Chal13W1zz" target="blank"><img src="https://img.shields.io/twitter/follow/Chal13W1zz?logo=twitter&style=social" alt="@Chal13W1zz"/>
+  <a href="https://www.youtube.com/channel/UCYtzy_RI9Bp8CWgNZzTPUmA?sub_confirmation=1" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCYtzy_RI9Bp8CWgNZzTPUmA?label=FreeTechMods&style=social" alt="FreeTechmods" />
+    <br/>
+      <a target="blank" href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img  align="center" alt="Donate"
+     src="https://komarev.com/ghpvc/?username=Chal13W1zz"  /></a>
+    <br/>
+        <a target="blank" href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img  align="center" alt="Donate" width="60px"
+     src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+</p>
