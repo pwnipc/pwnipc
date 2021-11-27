@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Mr+Chalie;I+%E2%9D%A4%EF%B8%8F+Android+App++Development+and+Security;I'm+doing+research+on+Browser+Eploitation;i+am+a+student;i+really+love+code+%E2%9D%A4%EF%B8%8F+;i+%E2%9D%A4%EF%B8%8F+ARM+Assembly+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F"></p>
   
-  <p align="center">   <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="left" alt="Donate" width="60px" src="https://ionicabizau.github.io/badges/paypal.svg" /></a> <img src="https://img.shields.io/badge/Creator%20%2F%20Founder%20Of%20%40FreeTechMods%20%7C%20%40Hackers%20Lobby-Telegram-blue">    
+  <p align="center">   
+  <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="left" alt="Donate" width="60px" src="https://ionicabizau.github.io/badges/paypal.svg" /></a> 
+  <a href="https://t.me/FreeTechMods" target="blank"><img src="https://img.shields.io/badge/Creator%20%2F%20Founder%20Of%20%40FreeTechMods%20%7C%20%40Hackers%20Lobby-Telegram-blue"> </a>
+  
   <a href="https://www.paypal.com/donate?hosted_button_id=PJSAAEHCKWV5G"><img align="right" alt="Donate" width="60px" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></p>
   
 <h3 align="center">Streaks and Stats</h3>
