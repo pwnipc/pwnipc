@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chal13W1zz&amp;theme=nord" alt="GitHub Streaks" width="49%" />
 
-  <img src="https://gitcard.vercel.app/api?username=Chal13W1zz&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Chal13W1zz&show_icons=true&theme=nord" alt="GitHub Stats" width="49%" />
 
 </p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chal13W1zz&theme=nord" alt="Chalie's Languages"> </p>
