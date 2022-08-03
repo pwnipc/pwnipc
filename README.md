@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - 🌱 I'm Mobile Application Security Engineer/ Developer, doing bug bounty hunting and playing ctf's at night.
   - 👯 Security Bug Bounty Hunter at Github
   - 💬 Ask me about Android App Security and Dev.
-  - 🥅 Hack the planet before they do :)
+  - 🥅 Learning IOS security by offending some binaries :)
   
  <h2 align="center">  Connect with me </h2>
 
